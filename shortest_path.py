@@ -63,7 +63,7 @@ graph = { 'A': ['B'],
         'C': []
 }
 
-print(DFS('A',graph))
+print(BFS('A',graph))
 # graph = {'A':[ 'B'],
 #          'B': ['A', 'C', 'D'],
 #          'C': ['B', 'D'],
