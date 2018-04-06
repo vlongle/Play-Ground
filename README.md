@@ -1,3 +1,3 @@
 # Play-Ground
 
-Let's play around and ticker with data structures, algorithms, fancy Python & C++ techniques & modules.
+Let's play around and tinker with data structures, algorithms, fancy Python & C++ techniques & modules.
