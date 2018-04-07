@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30915bb2-9368-4758-b4c8-8b50deb07da2" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TCPServer.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/advanced_techs.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/c.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/crypto.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cut-rod-cost.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cycle_detect.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/decorator.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fib.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/matrix.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/matrixChain.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/play/play.xcodeproj/project.pbxproj" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/play/play.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/play/play.xcodeproj/project.xcworkspace/xcuserdata/longle.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/play/play.xcodeproj/xcuserdata/longle.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/play/play/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rod-cut-recurse.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rod-cut.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ser.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shortest.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shortest_path.py" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Intro to Algorithms (Thomas Cormen)/Ch-15 DP/coin-exchange/coinExchange.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,7 +13,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="coinExchange.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Intro to Algorithms (Thomas Cormen)/Ch-15 DP/coin-exchange/coinExchange.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="55" lean-forward="true" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -48,7 +41,11 @@
       <find>print</find>
       <find>matrixChain</find>
       <find>soln</find>
+      <find>bill</find>
     </findStrings>
+    <replaceStrings>
+      <replace>target_bill</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -66,12 +63,13 @@
         <option value="$PROJECT_DIR$/cut-rod-cost.py" />
         <option value="$PROJECT_DIR$/matrixChain.py" />
         <option value="$PROJECT_DIR$/matrix.py" />
+        <option value="$PROJECT_DIR$/Intro to Algorithms (Thomas Cormen)/Ch-15 DP/coin-exchange/coinExchange.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="32" />
-    <option name="y" value="41" />
+    <option name="x" value="198" />
+    <option name="y" value="151" />
     <option name="width" value="1960" />
     <option name="height" value="957" />
   </component>
@@ -98,6 +96,31 @@
               <item name="Play-Ground" type="b2602c69:ProjectViewProjectNode" />
               <item name="Play-Ground" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Play-Ground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Play-Ground" type="462c0819:PsiDirectoryNode" />
+              <item name="Intro to Algorithms (Thomas Cormen)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Play-Ground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Play-Ground" type="462c0819:PsiDirectoryNode" />
+              <item name="Intro to Algorithms (Thomas Cormen)" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch-15 DP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Play-Ground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Play-Ground" type="462c0819:PsiDirectoryNode" />
+              <item name="Intro to Algorithms (Thomas Cormen)" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch-15 DP" type="462c0819:PsiDirectoryNode" />
+              <item name="coin-exchange" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Play-Ground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Play-Ground" type="462c0819:PsiDirectoryNode" />
+              <item name="Intro to Algorithms (Thomas Cormen)" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch-15 DP" type="462c0819:PsiDirectoryNode" />
+              <item name="Matrix-Chain" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -122,7 +145,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.matrix">
+  <component name="RunManager" selected="Python.coinExchange">
+    <configuration name="coinExchange" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Intro to Algorithms (Thomas Cormen)/Ch-15 DP/coin-exchange" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Play-Ground" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Intro to Algorithms (Thomas Cormen)/Ch-15 DP/coin-exchange/coinExchange.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="cut-rod-cost" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -191,37 +231,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="rod-cut" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Play-Ground" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rod-cut.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.rod-cut" />
-      <item index="1" class="java.lang.String" itemvalue="Python.rod-cut-recurse" />
-      <item index="2" class="java.lang.String" itemvalue="Python.cut-rod-cost" />
-      <item index="3" class="java.lang.String" itemvalue="Python.matrixChain" />
-      <item index="4" class="java.lang.String" itemvalue="Python.matrix" />
+      <item index="0" class="java.lang.String" itemvalue="Python.rod-cut-recurse" />
+      <item index="1" class="java.lang.String" itemvalue="Python.cut-rod-cost" />
+      <item index="2" class="java.lang.String" itemvalue="Python.matrixChain" />
+      <item index="3" class="java.lang.String" itemvalue="Python.matrix" />
+      <item index="4" class="java.lang.String" itemvalue="Python.coinExchange" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.matrix" />
-        <item index="1" class="java.lang.String" itemvalue="Python.matrixChain" />
-        <item index="2" class="java.lang.String" itemvalue="Python.cut-rod-cost" />
-        <item index="3" class="java.lang.String" itemvalue="Python.rod-cut-recurse" />
-        <item index="4" class="java.lang.String" itemvalue="Python.rod-cut" />
+        <item index="0" class="java.lang.String" itemvalue="Python.coinExchange" />
+        <item index="1" class="java.lang.String" itemvalue="Python.matrix" />
+        <item index="2" class="java.lang.String" itemvalue="Python.matrixChain" />
+        <item index="3" class="java.lang.String" itemvalue="Python.cut-rod-cost" />
+        <item index="4" class="java.lang.String" itemvalue="Python.rod-cut-recurse" />
       </list>
     </recent_temporary>
   </component>
@@ -239,9 +262,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="32" y="41" width="1960" height="957" extended-state="0" />
+    <frame x="198" y="151" width="1960" height="957" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.088112615" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.088112615" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -286,7 +310,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="103" />
+      <option name="time" value="118" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -426,13 +450,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cycle_detect.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="828">
@@ -474,13 +491,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="5" column="54" lean-forward="false" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/play.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -549,6 +559,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/play.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intro to Algorithms (Thomas Cormen)/Ch-15 DP/coin-exchange/coinExchange.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="55" lean-forward="true" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
           <folding />
         </state>
       </provider>
