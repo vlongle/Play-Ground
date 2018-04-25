@@ -1,34 +1,50 @@
 
-m = 6099
-n = 2166
+m = 5
+n = 3
 # k = 0
 
-def extendedEuclid(m,n):
-    (a,b) = 1,0
-    (c,d) = 0,1
-    k = 0
+
+
+
+def EuclidTime(m,n):
     while True:
-        if (m>n):
-            m -= n
-            k +=1
-        elif m == n:
+        r = m%n
+        if r == 0:
             break
         else:
-            print("k:", k)
-            (temp1, temp2) = (c,d)
-            # (c,d) = (a,b) - k*(c,d)
-            c = a-k*c
-            d = b-k*d
-            (a,b) = (temp1, temp2)
-            m, n = n, m
-            k = 0
+            m = n
+            n = r
 
-    # n is the greatest common divisor, (c,d) s.t. c*m + d*n = gcd(m,n)
-    return (n, (c,d))
+    return n
 
 
+def extendedEuclid(m,n):
+    (a,b) = (1,0)
+    (c,d) = (0,1)
+    T = 0
+    while True:
+        T +=1  # count the remainder as 1 time step
+        print(m,n, T)
+        r = m % n
+        q = m // n
+        T += 1 # count the checking r = 0 ? as 1 time step
+        if r == 0:
+            break
+        else:
+
+            T +=1 # count the reducing as 1 time step
+            m = n
+            n = r
+
+            (h,k) = (a,b)
+            (a,b) = (c,d)
+            c = h - q*c
+            d = k - q*d
+
+    return (n, a,b, T)
 
 
-d = extendedEuclid(m,n)
+# print(m,n)
+result = extendedEuclid(m,n)
 
-print(d)
+print(result)
